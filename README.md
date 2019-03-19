@@ -1,5 +1,5 @@
 # Proyecto-POO---Alquiler-de-veh-culos
-Proyecto final programación orientada a objetos, En Java con Netbeans.
+Proyecto final programación orientada a objetos, En Java con Netbeans. Usando archivos.
 
 Creación del software para una agencia de alquiler de vehículos aplicando la Programación orientada a objetos.
 
